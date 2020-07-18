@@ -6,9 +6,9 @@ I am the experienced veteran always fight in the trench, I like coding.
 
 [My Blog](https://blog.kazge.com/)
 
-[zhouexin E-zine](https://www.zhouexin.com/)
+[E-zine zhouexin](https://www.zhouexin.com/)
 
-<a href="mailto:imhazige@gmail.com">email</a>
+<a href="mailto:imhazige@gmail.com">Email</a>
 
 
 ## Intro
