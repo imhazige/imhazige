@@ -1,3 +1,11 @@
+## Me
+
+[Medium](https://medium.com/@imhazige)
+[My Blog](https://blog.kazge.com/)
+![](https://www.zhouexin.com/qrcode.jpg)
+
+
+##Intro
 
 In the past 3 years, I was working in a wuhan local team which have build unicorn company, two startups, acted as frontend Team Leader, tech manager. 
 
