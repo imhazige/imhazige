@@ -8,6 +8,8 @@ I am the experienced veteran always fight in the trench, I like coding.
 
 [zhouexin E-zine](https://www.zhouexin.com/)
 
+<a href="mailto:imhazige@gmail.com">email</a>
+
 
 ## Intro
 
