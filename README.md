@@ -1,11 +1,15 @@
 ## Me
 
+I am the experienced veteran always fight in the trench, I like coding.
+
 [Medium](https://medium.com/@imhazige)
+
 [My Blog](https://blog.kazge.com/)
-![](https://www.zhouexin.com/qrcode.jpg)
+
+[zhouexin E-zine](https://www.zhouexin.com/)
 
 
-##Intro
+## Intro
 
 In the past 3 years, I was working in a wuhan local team which have build unicorn company, two startups, acted as frontend Team Leader, tech manager. 
 
