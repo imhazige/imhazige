@@ -13,6 +13,8 @@ I am the experienced veteran always fight in the trench, I like coding.
 
 ## Intro
 
+In the past one year I was working as a full-time Senior Full Stack Engineer for a Australian company remotely.
+
 In the past 3 years, I was working in a wuhan local team which have build unicorn company, two startups, acted as frontend Team Leader, tech manager. 
 
 In the earlier 5 years I have worked as a full-time Senior Engineer for a US company remotely. We doing CISCO,twilio,tropo related IVR and call center product on the AWS cloud.
