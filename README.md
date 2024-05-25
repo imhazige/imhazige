@@ -4,6 +4,8 @@ I am the experienced veteran always fight in the trench, I like coding.
 
 [Medium](https://medium.com/@imhazige)
 
+[Blog](https://blog.ureshika.com)
+
 [E-zine zhouexin](https://www.zhouexin.com/)
 
 <a href="mailto:imhazige@gmail.com">Email</a>
